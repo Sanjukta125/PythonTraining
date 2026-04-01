@@ -1,0 +1,8 @@
+name:Ravi
+age:45
+location:Delhi
+
+name:Amit
+age:30
+location:Mumbai
+
